@@ -1,0 +1,1646 @@
+2022-11-16 11:52:35,911 [main] INFO logger_file - user can see signi n Page
+2022-11-16 11:52:36,033 [main] INFO logger_file - user clicked on sign in option
+2022-11-23 09:07:11,749 [main] INFO logger_file - React App is equal to React App
+2022-11-23 09:07:11,921 [main] INFO logger_file - user clicked on Sign In option
+2022-11-23 09:07:12,229 [main] INFO logger_file - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-23 09:07:12,323 [main] INFO logger_file - user clicked on login button
+2022-11-23 09:08:15,866 [main] INFO logger_file - React App is equal to React App
+2022-11-23 09:08:16,077 [main] INFO logger_file - user clicked on Sign In option
+2022-11-23 09:08:16,391 [main] INFO logger_file - user entered email panthers1@yahoo.com and password Azada5001!
+2022-11-23 09:08:16,484 [main] INFO logger_file - user clicked on login button
+2022-11-23 09:11:48,778 [main] INFO logger_file - React App is equal to React App
+2022-11-23 09:11:48,953 [main] INFO logger_file - user clicked on Sign In option
+2022-11-23 09:11:49,308 [main] INFO logger_file - user entered email sohai.zahid12@gmail.com and password Sohail123@
+2022-11-23 09:11:49,402 [main] INFO logger_file - user clicked on login button
+2022-11-23 09:13:12,775 [main] INFO logger_file - React App is equal to React App
+2022-11-23 09:13:12,955 [main] INFO logger_file - user clicked on Sign In option
+2022-11-23 09:13:13,304 [main] INFO logger_file - user entered email sohail.zahid12@gmail.com and password Sohail123@
+2022-11-23 09:13:13,425 [main] INFO logger_file - user clicked on login button
+2022-11-23 09:13:13,840 [main] INFO logger_file - user logged in into account
+2022-11-28 22:50:49,585 [main] INFO logger_file - React App is equal to React App
+2022-11-28 22:50:49,723 [main] INFO logger_file - user clicked on Sign In option
+2022-11-28 22:50:50,000 [main] INFO logger_file - user entered email sohail.zahid12@gmail.com and password Sohail123@
+2022-11-28 22:50:50,082 [main] INFO logger_file - user clicked on login button
+2022-11-28 22:50:50,464 [main] INFO logger_file - user logged in into account
+2022-11-28 23:32:02,907 [main] INFO logger_file - React App is equal to React App
+2022-11-28 23:32:03,047 [main] INFO logger_file - user clicked on Sign In option
+2022-11-28 23:32:03,350 [main] INFO logger_file - user entered email sohail.zahid12@gmail.com and password Sohail123@
+2022-11-28 23:32:03,443 [main] INFO logger_file - user clicked on login button
+2022-11-28 23:32:03,818 [main] INFO logger_file - user logged in into account
+2022-11-28 23:32:12,688 [main] INFO logger_file - React App is equal to React App
+2022-11-28 23:32:12,850 [main] INFO logger_file - user clicked on Sign In option
+2022-11-28 23:32:12,957 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-28 23:32:13,435 [main] INFO logger_file - user entered required information into sign up form
+2022-11-28 23:32:18,517 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-28 23:33:54,569 [main] INFO logger_file - React App is equal to React App
+2022-11-28 23:33:54,722 [main] INFO logger_file - user clicked on Sign In option
+2022-11-28 23:33:54,865 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-28 23:33:55,382 [main] INFO logger_file - user entered required information into sign up form
+2022-11-28 23:34:00,481 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-28 23:35:02,298 [main] INFO logger_file - React App is equal to React App
+2022-11-28 23:35:02,475 [main] INFO logger_file - user clicked on Sign In option
+2022-11-28 23:35:02,603 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-28 23:35:03,104 [main] INFO logger_file - user entered required information into sign up form
+2022-11-28 23:35:08,216 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-29 20:20:23,753 [main] INFO logger_file - React App is equal to React App
+2022-11-29 20:20:23,940 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 20:20:24,249 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-29 20:20:24,340 [main] INFO logger_file - user clicked on login button
+2022-11-29 20:23:56,187 [main] INFO logger_file - React App is equal to React App
+2022-11-29 20:23:56,335 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 20:23:56,648 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-29 20:23:56,733 [main] INFO logger_file - user clicked on login button
+2022-11-29 20:32:59,374 [main] INFO logger_file - React App is equal to React App
+2022-11-29 20:32:59,533 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 20:32:59,849 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-29 20:32:59,933 [main] INFO logger_file - user clicked on login button
+2022-11-29 20:32:59,934 [main] INFO logger_file - User should be logged into account
+2022-11-29 20:33:00,497 [main] INFO logger_file - User Should be on Accout page
+2022-11-29 20:41:03,795 [main] INFO logger_file - React App is equal to React App
+2022-11-29 20:41:03,945 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 20:41:04,256 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-29 20:41:04,338 [main] INFO logger_file - user clicked on login button
+2022-11-29 20:41:04,339 [main] INFO logger_file - User should be logged into account
+2022-11-29 20:41:04,886 [main] INFO logger_file - User Should be on Accout page
+2022-11-29 20:42:05,733 [main] INFO logger_file - React App is equal to React App
+2022-11-29 20:42:05,864 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 20:42:06,143 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-29 20:42:06,221 [main] INFO logger_file - user clicked on login button
+2022-11-29 20:42:06,222 [main] INFO logger_file - User should be logged into account
+2022-11-29 20:42:06,747 [main] INFO logger_file - User Should be on Accout page
+2022-11-29 22:20:04,817 [main] INFO logger_file - React App is equal to React App
+2022-11-29 22:20:04,989 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 22:20:05,305 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-29 22:20:05,399 [main] INFO logger_file - user clicked on login button
+2022-11-29 22:20:05,399 [main] INFO logger_file - User should be logged into account
+2022-11-29 22:20:05,878 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:05:13,327 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:05:13,514 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:05:13,904 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:05:14,039 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:05:14,040 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:05:14,733 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:10:16,796 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:10:16,997 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:10:17,380 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:10:17,493 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:10:17,494 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:10:18,053 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:12:28,299 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:12:28,486 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:12:28,803 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:12:28,889 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:12:28,890 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:12:29,408 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:14:55,004 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:14:55,196 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:14:55,542 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:14:55,641 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:14:55,642 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:14:56,154 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:15:59,957 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:16:00,289 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:16:00,714 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:16:00,856 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:16:00,857 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:16:01,424 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:20:38,243 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:20:38,420 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:20:38,784 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:20:38,911 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:20:38,912 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:20:39,436 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 00:20:39,725 [main] INFO logger_file - User Should be able to see inserted value
+2022-11-30 00:20:39,865 [main] INFO logger_file - User info should be update
+2022-11-30 00:47:17,476 [main] INFO logger_file - React App is equal to React App
+2022-11-30 00:47:17,657 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 00:47:18,035 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 00:47:18,129 [main] INFO logger_file - user clicked on login button
+2022-11-30 00:47:18,130 [main] INFO logger_file - User should be logged into account
+2022-11-30 00:47:18,650 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 11:37:25,362 [main] INFO logger_file - React App is equal to React App
+2022-11-30 11:37:25,509 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 11:37:25,898 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 11:37:30,983 [main] INFO logger_file - user clicked on login button
+2022-11-30 11:37:30,985 [main] INFO logger_file - User should be logged into account
+2022-11-30 11:37:36,117 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 12:22:55,645 [main] INFO logger_file - React App is equal to React App
+2022-11-30 12:22:55,863 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 12:22:56,197 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 12:23:01,293 [main] INFO logger_file - user clicked on login button
+2022-11-30 12:23:01,295 [main] INFO logger_file - User should be logged into account
+2022-11-30 12:23:06,447 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 12:25:51,582 [main] INFO logger_file - React App is equal to React App
+2022-11-30 12:25:51,842 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 12:25:52,187 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf1234!
+2022-11-30 12:25:57,288 [main] INFO logger_file - user clicked on login button
+2022-11-30 12:25:57,289 [main] INFO logger_file - User should be logged into account
+2022-11-30 12:26:02,446 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 12:26:07,770 [main] INFO logger_file - User should be able to change password
+2022-11-30 12:26:12,865 [main] INFO logger_file - User should be able to change her password succesfully 
+2022-11-30 13:05:19,857 [main] INFO logger_file - React App is equal to React App
+2022-11-30 13:05:20,148 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 13:05:21,034 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf12345!
+2022-11-30 13:05:26,143 [main] INFO logger_file - user clicked on login button
+2022-11-30 13:05:26,144 [main] INFO logger_file - User should be logged into account
+2022-11-30 13:05:31,338 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 13:05:36,748 [main] INFO logger_file - User should be able to change password
+2022-11-30 13:05:41,861 [main] INFO logger_file - User should be able to change her password succesfully 
+2022-11-30 13:05:46,910 [main] INFO logger_file - User should be able to see the that the pass world was changed succsefully
+2022-11-30 13:37:26,136 [main] INFO logger_file - React App is equal to React App
+2022-11-30 13:37:26,419 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 13:37:26,808 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf12345!
+2022-11-30 13:37:31,900 [main] INFO logger_file - user clicked on login button
+2022-11-30 13:37:31,901 [main] INFO logger_file - User should be logged into account
+2022-11-30 13:39:01,427 [main] INFO logger_file - React App is equal to React App
+2022-11-30 13:39:01,759 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 13:39:02,178 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-11-30 13:39:07,296 [main] INFO logger_file - user clicked on login button
+2022-11-30 13:39:07,298 [main] INFO logger_file - User should be logged into account
+2022-11-30 13:39:12,457 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 14:10:17,039 [main] INFO logger_file - React App is equal to React App
+2022-11-30 14:10:17,283 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 14:10:17,650 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-11-30 14:10:22,753 [main] INFO logger_file - user clicked on login button
+2022-11-30 14:10:22,754 [main] INFO logger_file - User should be logged into account
+2022-11-30 14:10:27,932 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 14:10:33,026 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-11-30 14:10:38,537 [main] INFO logger_file - User should be able to change password
+2022-11-30 14:10:43,656 [main] INFO logger_file - User should be able see the submitbtn
+2022-11-30 14:13:42,661 [main] INFO logger_file - React App is equal to React App
+2022-11-30 14:13:43,006 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 14:13:43,309 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-11-30 14:13:48,404 [main] INFO logger_file - user clicked on login button
+2022-11-30 14:13:48,406 [main] INFO logger_file - User should be logged into account
+2022-11-30 14:13:53,654 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 14:13:58,736 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-11-30 14:14:04,196 [main] INFO logger_file - User should be able to change password
+2022-11-30 14:14:09,312 [main] INFO logger_file - User should be able see the submitbtn
+2022-11-30 14:15:45,801 [main] INFO logger_file - React App is equal to React App
+2022-11-30 14:15:46,064 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 14:15:46,442 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-11-30 14:15:51,543 [main] INFO logger_file - user clicked on login button
+2022-11-30 14:15:51,545 [main] INFO logger_file - User should be logged into account
+2022-11-30 14:15:56,735 [main] INFO logger_file - User Should be on Accout page
+2022-11-30 14:16:01,817 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-11-30 14:16:07,290 [main] INFO logger_file - User should be able to change password
+2022-11-30 14:16:12,396 [main] INFO logger_file - User should be able see the submitbtn
+2022-12-01 16:19:47,336 [main] INFO logger_file - React App is equal to React App
+2022-12-01 16:19:47,746 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 18:41:38,780 [main] INFO logger_file - React App is equal to React App
+2022-12-01 18:41:39,066 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 21:43:29,619 [main] INFO logger_file - React App is equal to React App
+2022-12-01 21:43:29,901 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 21:43:30,292 [main] INFO logger_file - user entered email test123@test.com and password Tek@123456*
+2022-12-01 21:43:35,395 [main] INFO logger_file - user clicked on login button
+2022-12-01 21:54:51,644 [main] INFO logger_file - React App is equal to React App
+2022-12-01 21:54:51,854 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 21:54:52,207 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 21:54:57,297 [main] INFO logger_file - user clicked on login button
+2022-12-01 21:54:57,683 [main] INFO logger_file - user logged in into account
+2022-12-01 21:55:02,820 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 22:03:45,330 [main] INFO logger_file - React App is equal to React App
+2022-12-01 22:03:45,710 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 22:03:46,120 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 22:03:51,223 [main] INFO logger_file - user clicked on login button
+2022-12-01 22:03:51,586 [main] INFO logger_file - user logged in into account
+2022-12-01 22:03:56,739 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 22:11:37,980 [main] INFO logger_file - React App is equal to React App
+2022-12-01 22:11:38,248 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 22:11:38,626 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 22:11:43,730 [main] INFO logger_file - user clicked on login button
+2022-12-01 22:11:44,092 [main] INFO logger_file - user logged in into account
+2022-12-01 22:11:49,263 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 22:19:40,751 [main] INFO logger_file - React App is equal to React App
+2022-12-01 22:19:40,987 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 22:19:41,332 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 22:19:46,421 [main] INFO logger_file - user clicked on login button
+2022-12-01 22:19:46,802 [main] INFO logger_file - user logged in into account
+2022-12-01 22:19:51,968 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 22:31:51,221 [main] INFO logger_file - React App is equal to React App
+2022-12-01 22:31:51,496 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 22:31:51,867 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 22:31:56,967 [main] INFO logger_file - user clicked on login button
+2022-12-01 22:31:57,346 [main] INFO logger_file - user logged in into account
+2022-12-01 22:32:02,491 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 22:49:08,702 [main] INFO logger_file - React App is equal to React App
+2022-12-01 22:49:09,042 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 22:49:09,512 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 22:49:14,614 [main] INFO logger_file - user clicked on login button
+2022-12-01 22:49:14,982 [main] INFO logger_file - user logged in into account
+2022-12-01 22:49:20,151 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:05:19,953 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:05:20,259 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:05:20,671 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:05:25,799 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:05:26,236 [main] INFO logger_file - user logged in into account
+2022-12-01 23:05:31,458 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:14:10,459 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:14:10,771 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:14:11,101 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:14:16,193 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:14:16,576 [main] INFO logger_file - user logged in into account
+2022-12-01 23:14:21,738 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:18:57,449 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:18:57,776 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:18:58,137 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:19:03,227 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:19:03,584 [main] INFO logger_file - user logged in into account
+2022-12-01 23:19:08,750 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:27:03,847 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:27:04,045 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:27:04,383 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:27:09,470 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:27:09,854 [main] INFO logger_file - user logged in into account
+2022-12-01 23:27:15,020 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:30:05,423 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:30:05,860 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:30:06,266 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:30:11,361 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:30:11,995 [main] INFO logger_file - user logged in into account
+2022-12-01 23:30:17,152 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:31:49,054 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:31:49,362 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:31:49,753 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:31:54,846 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:31:55,216 [main] INFO logger_file - user logged in into account
+2022-12-01 23:32:00,386 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:33:57,559 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:33:57,803 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:33:58,150 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-12-01 23:34:03,241 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:34:03,242 [main] INFO logger_file - User should be logged into account
+2022-12-01 23:34:08,416 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:34:13,502 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-12-01 23:35:25,461 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:35:25,731 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:35:26,152 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-12-01 23:35:31,257 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:35:31,259 [main] INFO logger_file - User should be logged into account
+2022-12-01 23:35:36,440 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:35:41,547 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-12-01 23:37:19,538 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:37:19,776 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:37:20,151 [main] INFO logger_file - user entered email Sohial456@gmail.com  and password Asdf123456!
+2022-12-01 23:37:25,254 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:37:25,256 [main] INFO logger_file - User should be logged into account
+2022-12-01 23:37:30,445 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:37:35,568 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-12-01 23:41:41,378 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:41:41,591 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:41:41,939 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-01 23:41:47,039 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:41:47,040 [main] INFO logger_file - User should be logged into account
+2022-12-01 23:41:52,210 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:41:57,291 [main] INFO logger_file - User should be able to click on Add Pyment Method Link
+2022-12-01 23:42:02,807 [main] INFO logger_file - User should be able to change password
+2022-12-01 23:42:07,952 [main] INFO logger_file - User should be able see the submitbtn
+2022-12-01 23:43:03,889 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:43:04,111 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:43:04,527 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:43:09,631 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:43:10,022 [main] INFO logger_file - user logged in into account
+2022-12-01 23:43:15,179 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:46:04,232 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:46:04,393 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:46:04,796 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:46:09,887 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:46:10,253 [main] INFO logger_file - user logged in into account
+2022-12-01 23:46:15,410 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:52:24,521 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:52:24,755 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:52:25,160 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:52:30,249 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:52:30,616 [main] INFO logger_file - user logged in into account
+2022-12-01 23:52:35,779 [main] INFO logger_file - User Should be on Accout page
+2022-12-01 23:53:34,944 [main] INFO logger_file - React App is equal to React App
+2022-12-01 23:53:35,263 [main] INFO logger_file - user clicked on Sign In option
+2022-12-01 23:53:35,677 [main] INFO logger_file - user entered email testABC@test.com and password Tek@1234
+2022-12-01 23:53:40,770 [main] INFO logger_file - user clicked on login button
+2022-12-01 23:53:41,134 [main] INFO logger_file - user logged in into account
+2022-12-01 23:53:46,289 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 00:23:10,261 [main] INFO logger_file - React App is equal to React App
+2022-12-02 00:25:51,579 [main] INFO logger_file - React App is equal to React App
+2022-12-02 00:25:51,969 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 00:25:52,461 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 00:25:57,582 [main] INFO logger_file - user clicked on login button
+2022-12-02 00:25:57,583 [main] INFO logger_file - User should be logged into account
+2022-12-02 00:26:02,749 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 00:29:16,156 [main] INFO logger_file - React App is equal to React App
+2022-12-02 00:29:16,418 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 00:29:16,760 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 00:29:21,852 [main] INFO logger_file - user clicked on login button
+2022-12-02 00:29:21,853 [main] INFO logger_file - User should be logged into account
+2022-12-02 00:29:27,021 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 00:29:32,151 [main] INFO logger_file - 1478is selected
+2022-12-02 00:29:32,323 [main] INFO logger_file - user clicked on Edit Option
+2022-12-02 00:29:33,039 [main] INFO logger_file - user entered required card information
+2022-12-02 00:29:33,167 [main] INFO logger_file - user clicked on Update your card button
+2022-12-02 09:57:59,846 [main] INFO logger_file - React App is equal to React App
+2022-12-02 09:58:00,131 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 09:58:00,409 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 09:58:05,510 [main] INFO logger_file - user clicked on login button
+2022-12-02 09:58:05,511 [main] INFO logger_file - User should be logged into account
+2022-12-02 09:58:10,662 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 09:58:15,742 [main] INFO logger_file - 5445is selected
+2022-12-02 09:58:15,834 [main] INFO logger_file - user clicked on Edit Option
+2022-12-02 09:58:16,386 [main] INFO logger_file - user entered required card information
+2022-12-02 09:58:16,469 [main] INFO logger_file - user clicked on Update your card button
+2022-12-02 23:07:08,347 [main] INFO logger_file - React App is equal to React App
+2022-12-02 23:07:08,598 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 23:07:08,956 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 23:07:14,048 [main] INFO logger_file - user clicked on login button
+2022-12-02 23:07:14,049 [main] INFO logger_file - User should be logged into account
+2022-12-02 23:07:19,224 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 23:07:24,327 [main] INFO logger_file - 5445is selected
+2022-12-02 23:07:24,439 [main] INFO logger_file - user clicked on Edit Option
+2022-12-02 23:07:30,080 [main] INFO logger_file - user entered required card information
+2022-12-02 23:07:30,190 [main] INFO logger_file - user clicked on Update your card button
+2022-12-02 23:27:42,597 [main] INFO logger_file - React App is equal to React App
+2022-12-02 23:27:42,873 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 23:27:43,224 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 23:27:48,321 [main] INFO logger_file - user clicked on login button
+2022-12-02 23:27:48,322 [main] INFO logger_file - User should be logged into account
+2022-12-02 23:27:53,485 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 23:27:58,587 [main] INFO logger_file - 5445is selected
+2022-12-02 23:27:58,722 [main] INFO logger_file - user clicked on Edit Option
+2022-12-02 23:28:04,275 [main] INFO logger_file - user entered required card information
+2022-12-02 23:28:04,369 [main] INFO logger_file - user clicked on Update your card button
+2022-12-02 23:31:03,449 [main] INFO logger_file - React App is equal to React App
+2022-12-02 23:31:03,750 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 23:31:04,088 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 23:31:09,195 [main] INFO logger_file - user clicked on login button
+2022-12-02 23:31:09,197 [main] INFO logger_file - User should be logged into account
+2022-12-02 23:31:14,387 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 23:31:19,495 [main] INFO logger_file - 5445is selected
+2022-12-02 23:31:19,637 [main] INFO logger_file - user clicked on Edit Option
+2022-12-02 23:31:25,233 [main] INFO logger_file - user entered required card information
+2022-12-02 23:31:25,339 [main] INFO logger_file - user clicked on Update your card button
+2022-12-02 23:38:04,728 [main] INFO logger_file - React App is equal to React App
+2022-12-02 23:38:05,048 [main] INFO logger_file - user clicked on Sign In option
+2022-12-02 23:38:05,351 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-02 23:38:09,451 [main] INFO logger_file - user clicked on login button
+2022-12-02 23:38:09,452 [main] INFO logger_file - User should be logged into account
+2022-12-02 23:38:13,633 [main] INFO logger_file - User Should be on Accout page
+2022-12-02 23:38:17,720 [main] INFO logger_file - 5445is selected
+2022-12-02 23:38:17,877 [main] INFO logger_file - user clicked on Edit Option
+2022-12-02 23:38:34,453 [main] INFO logger_file - user entered required card information
+2022-12-02 23:38:34,536 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 00:10:53,701 [main] INFO logger_file - React App is equal to React App
+2022-12-03 00:10:53,951 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 00:10:54,602 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 00:10:58,698 [main] INFO logger_file - user clicked on login button
+2022-12-03 00:10:58,699 [main] INFO logger_file - User should be logged into account
+2022-12-03 00:11:02,861 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 00:11:06,965 [main] INFO logger_file - 5445is selected
+2022-12-03 00:11:07,088 [main] INFO logger_file - user clicked on Edit Option
+2022-12-03 00:11:31,767 [main] INFO logger_file - user entered required card information
+2022-12-03 00:11:31,854 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 00:19:39,286 [main] INFO logger_file - React App is equal to React App
+2022-12-03 00:19:39,586 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 00:19:40,053 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 00:19:44,166 [main] INFO logger_file - user clicked on login button
+2022-12-03 00:19:44,167 [main] INFO logger_file - User should be logged into account
+2022-12-03 00:19:48,368 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 00:19:52,474 [main] INFO logger_file - 5445is selected
+2022-12-03 00:19:52,634 [main] INFO logger_file - user clicked on Edit Option
+2022-12-03 00:20:29,332 [main] INFO logger_file - user entered required card information
+2022-12-03 00:20:29,461 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 00:57:01,634 [main] INFO logger_file - React App is equal to React App
+2022-12-03 00:57:01,885 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 00:57:02,348 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 00:57:06,470 [main] INFO logger_file - user clicked on login button
+2022-12-03 00:57:06,475 [main] INFO logger_file - User should be logged into account
+2022-12-03 00:57:10,710 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:02:35,194 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:02:35,440 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:02:35,925 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:02:40,039 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:02:40,041 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:02:44,290 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:02:48,417 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 01:05:30,796 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:05:31,062 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:05:31,484 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:05:35,598 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:05:35,600 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:05:39,816 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:05:43,977 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 01:12:04,150 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:12:04,411 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:12:04,789 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:12:08,913 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:12:08,914 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:12:13,120 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:12:17,277 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 01:15:20,579 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:15:20,798 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:15:21,102 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:15:25,226 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:15:25,229 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:15:29,433 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:15:33,566 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 01:21:24,576 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:21:24,754 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:21:25,203 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:21:29,297 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:21:29,299 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:21:33,483 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:21:37,608 [main] INFO logger_file - 5445is selected
+2022-12-03 01:21:37,828 [main] INFO logger_file - user clicked on Edit Option
+2022-12-03 01:21:42,601 [main] INFO logger_file - user entered required card information
+2022-12-03 01:21:42,702 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 01:22:24,205 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:22:24,457 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:22:24,802 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:22:28,894 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:22:28,895 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:22:33,071 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:22:37,213 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 01:24:12,021 [main] INFO logger_file - React App is equal to React App
+2022-12-03 01:24:12,155 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 01:24:12,473 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 01:24:16,555 [main] INFO logger_file - user clicked on login button
+2022-12-03 01:24:16,556 [main] INFO logger_file - User should be logged into account
+2022-12-03 01:24:20,705 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 01:24:24,826 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 13:04:08,464 [main] INFO logger_file - React App is equal to React App
+2022-12-03 13:04:08,609 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 13:04:08,915 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 13:04:13,009 [main] INFO logger_file - user clicked on login button
+2022-12-03 13:04:13,011 [main] INFO logger_file - User should be logged into account
+2022-12-03 13:04:17,159 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 13:04:21,267 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 13:04:59,479 [main] INFO logger_file - React App is equal to React App
+2022-12-03 13:04:59,689 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 13:04:59,971 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 13:05:04,057 [main] INFO logger_file - user clicked on login button
+2022-12-03 13:05:04,058 [main] INFO logger_file - User should be logged into account
+2022-12-03 13:05:08,214 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 13:05:12,312 [main] INFO logger_file - 5445is selected
+2022-12-03 13:05:12,420 [main] INFO logger_file - user clicked on Edit Option
+2022-12-03 13:05:17,005 [main] INFO logger_file - user entered required card information
+2022-12-03 13:05:17,086 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 14:46:17,504 [main] INFO logger_file - React App is equal to React App
+2022-12-03 14:46:17,692 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 14:46:18,007 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 14:46:22,112 [main] INFO logger_file - user clicked on login button
+2022-12-03 14:46:22,113 [main] INFO logger_file - User should be logged into account
+2022-12-03 14:46:26,268 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 14:46:30,372 [main] INFO logger_file - 5445is selected
+2022-12-03 14:46:30,512 [main] INFO logger_file - user clicked on Edit Option
+2022-12-03 14:46:35,085 [main] INFO logger_file - user entered required card information
+2022-12-03 14:46:35,189 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 14:47:49,731 [main] INFO logger_file - React App is equal to React App
+2022-12-03 14:47:49,958 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 14:47:50,285 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 14:47:54,385 [main] INFO logger_file - user clicked on login button
+2022-12-03 14:47:54,385 [main] INFO logger_file - User should be logged into account
+2022-12-03 14:47:58,546 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 14:48:02,650 [main] INFO logger_file - 5445is selected
+2022-12-03 14:48:02,755 [main] INFO logger_file - user clicked on Edit Option
+2022-12-03 14:48:15,335 [main] INFO logger_file - user entered required card information
+2022-12-03 14:48:15,421 [main] INFO logger_file - user clicked on Update your card button
+2022-12-03 14:48:53,197 [main] INFO logger_file - React App is equal to React App
+2022-12-03 14:48:53,437 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 14:48:53,760 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 14:48:57,856 [main] INFO logger_file - user clicked on login button
+2022-12-03 14:48:57,857 [main] INFO logger_file - User should be logged into account
+2022-12-03 14:49:02,009 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 14:49:06,110 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 15:25:44,913 [main] INFO logger_file - React App is equal to React App
+2022-12-03 15:25:45,149 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 15:25:45,496 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 15:25:49,590 [main] INFO logger_file - user clicked on login button
+2022-12-03 15:25:49,591 [main] INFO logger_file - User should be logged into account
+2022-12-03 15:25:53,740 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 15:25:57,848 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 15:29:01,295 [main] INFO logger_file - React App is equal to React App
+2022-12-03 15:29:01,461 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 15:29:01,766 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 15:29:05,850 [main] INFO logger_file - user clicked on login button
+2022-12-03 15:29:05,850 [main] INFO logger_file - User should be logged into account
+2022-12-03 15:29:09,987 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 15:29:14,090 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 15:30:58,105 [main] INFO logger_file - React App is equal to React App
+2022-12-03 15:30:58,275 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 15:30:58,558 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 15:31:02,645 [main] INFO logger_file - user clicked on login button
+2022-12-03 15:31:02,646 [main] INFO logger_file - User should be logged into account
+2022-12-03 15:31:06,807 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 15:31:10,916 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 15:32:17,639 [main] INFO logger_file - React App is equal to React App
+2022-12-03 15:32:17,812 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 15:32:18,072 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 15:32:22,161 [main] INFO logger_file - user clicked on login button
+2022-12-03 15:32:22,162 [main] INFO logger_file - User should be logged into account
+2022-12-03 15:32:26,308 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 15:32:30,425 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 15:43:38,643 [main] INFO logger_file - React App is equal to React App
+2022-12-03 15:43:38,785 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 15:43:39,046 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 15:43:43,128 [main] INFO logger_file - user clicked on login button
+2022-12-03 15:43:43,129 [main] INFO logger_file - User should be logged into account
+2022-12-03 15:43:47,270 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 15:43:51,379 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 15:48:08,164 [main] INFO logger_file - React App is equal to React App
+2022-12-03 15:48:08,291 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 15:48:08,543 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 15:48:12,628 [main] INFO logger_file - user clicked on login button
+2022-12-03 15:48:12,630 [main] INFO logger_file - User should be logged into account
+2022-12-03 15:48:16,778 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 15:48:20,966 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 16:43:23,864 [main] INFO logger_file - React App is equal to React App
+2022-12-03 16:43:24,011 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 16:43:24,285 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 16:43:28,370 [main] INFO logger_file - user clicked on login button
+2022-12-03 16:43:28,371 [main] INFO logger_file - User should be logged into account
+2022-12-03 16:43:32,529 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 16:43:36,635 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:07:07,762 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:07:07,954 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:07:08,212 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:07:12,299 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:07:12,300 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:07:16,454 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:07:20,556 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:09:52,941 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:09:53,129 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:09:53,442 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:09:57,527 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:09:57,528 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:10:01,683 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:10:05,791 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:11:48,331 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:11:48,513 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:11:48,781 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:11:52,868 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:11:52,869 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:11:57,017 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:12:01,111 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:14:17,779 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:14:17,959 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:14:18,218 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:14:22,297 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:14:22,298 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:14:26,449 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:14:30,559 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:26:37,682 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:26:37,864 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:26:38,170 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:26:42,253 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:26:42,253 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:26:46,403 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:26:50,506 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:28:04,263 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:28:04,425 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:28:04,698 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:28:08,782 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:28:08,783 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:28:12,965 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:28:17,072 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:52:28,989 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:52:29,214 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:52:29,605 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:52:33,695 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:52:33,696 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:52:37,856 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:52:41,966 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:53:27,767 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:53:27,967 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:53:28,256 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:53:32,355 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:53:32,355 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:53:36,513 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:53:40,634 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:54:35,770 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:54:35,944 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:54:36,221 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:54:40,307 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:54:40,308 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:54:44,437 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:54:48,541 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 17:56:49,829 [main] INFO logger_file - React App is equal to React App
+2022-12-03 17:56:50,048 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 17:56:50,335 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 17:56:54,431 [main] INFO logger_file - user clicked on login button
+2022-12-03 17:56:54,431 [main] INFO logger_file - User should be logged into account
+2022-12-03 17:56:58,571 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 17:57:02,677 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 18:49:12,374 [main] INFO logger_file - React App is equal to React App
+2022-12-03 18:49:12,554 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 18:49:12,908 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 18:49:16,999 [main] INFO logger_file - user clicked on login button
+2022-12-03 18:49:16,999 [main] INFO logger_file - User should be logged into account
+2022-12-03 18:49:21,133 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 18:49:25,242 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 18:49:59,905 [main] INFO logger_file - React App is equal to React App
+2022-12-03 18:50:00,048 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 18:50:00,376 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 18:50:04,466 [main] INFO logger_file - user clicked on login button
+2022-12-03 18:50:04,467 [main] INFO logger_file - User should be logged into account
+2022-12-03 18:50:08,602 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 18:50:12,711 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 18:52:15,482 [main] INFO logger_file - React App is equal to React App
+2022-12-03 18:52:15,682 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 18:52:16,005 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 18:52:20,084 [main] INFO logger_file - user clicked on login button
+2022-12-03 18:52:20,085 [main] INFO logger_file - User should be logged into account
+2022-12-03 18:52:24,249 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 18:52:28,359 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 18:56:25,395 [main] INFO logger_file - React App is equal to React App
+2022-12-03 18:56:25,592 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 18:56:25,881 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 18:56:29,976 [main] INFO logger_file - user clicked on login button
+2022-12-03 18:56:29,977 [main] INFO logger_file - User should be logged into account
+2022-12-03 18:56:34,134 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 18:56:38,245 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 18:57:11,033 [main] INFO logger_file - React App is equal to React App
+2022-12-03 18:57:11,200 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 18:57:11,456 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 18:57:15,541 [main] INFO logger_file - user clicked on login button
+2022-12-03 18:57:15,542 [main] INFO logger_file - User should be logged into account
+2022-12-03 18:57:19,695 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 18:57:23,801 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:15:25,384 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:15:25,557 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:15:25,839 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:15:29,933 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:15:29,934 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:15:34,110 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:15:38,225 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:16:56,378 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:16:56,673 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:16:57,046 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:17:01,180 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:17:01,181 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:17:05,340 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:17:09,456 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:21:16,437 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:21:16,675 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:21:16,983 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:21:21,081 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:21:21,083 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:21:25,241 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:21:29,371 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:23:03,241 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:23:03,523 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:23:03,939 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:23:08,047 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:23:08,048 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:23:12,216 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:23:16,333 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:24:08,653 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:24:08,920 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:24:09,231 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:24:13,350 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:24:13,351 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:24:17,508 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:24:21,628 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:36:49,751 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:36:50,043 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:36:50,398 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:36:54,511 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:36:54,512 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:36:58,672 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:37:02,785 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:37:52,930 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:37:53,182 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:37:53,793 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:37:57,902 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:37:57,903 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:38:02,059 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:38:06,168 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:39:27,519 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:39:27,761 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:39:28,080 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:39:32,174 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:39:32,175 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:39:36,335 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:39:40,451 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:50:00,974 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:50:01,435 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:50:01,764 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:50:05,872 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:50:05,873 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:50:10,045 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:50:14,169 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 19:50:59,900 [main] INFO logger_file - React App is equal to React App
+2022-12-03 19:51:00,172 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 19:51:00,455 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 19:51:04,562 [main] INFO logger_file - user clicked on login button
+2022-12-03 19:51:04,563 [main] INFO logger_file - User should be logged into account
+2022-12-03 19:51:08,931 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 19:51:13,069 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 20:01:47,811 [main] INFO logger_file - React App is equal to React App
+2022-12-03 20:01:48,519 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 20:01:50,162 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 20:01:54,469 [main] INFO logger_file - user clicked on login button
+2022-12-03 20:01:54,480 [main] INFO logger_file - User should be logged into account
+2022-12-03 20:01:58,656 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 20:02:02,920 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 20:03:16,923 [main] INFO logger_file - React App is equal to React App
+2022-12-03 20:03:17,458 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 20:03:17,917 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 20:03:22,038 [main] INFO logger_file - user clicked on login button
+2022-12-03 20:03:22,064 [main] INFO logger_file - User should be logged into account
+2022-12-03 20:03:26,324 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 20:03:30,453 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 20:24:11,394 [main] INFO logger_file - React App is equal to React App
+2022-12-03 20:24:11,612 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 20:24:11,947 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 20:24:16,055 [main] INFO logger_file - user clicked on login button
+2022-12-03 20:24:16,056 [main] INFO logger_file - User should be logged into account
+2022-12-03 20:24:20,209 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 20:24:24,334 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 20:27:01,521 [main] INFO logger_file - React App is equal to React App
+2022-12-03 20:27:01,773 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 20:27:02,087 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 20:27:06,332 [main] INFO logger_file - user clicked on login button
+2022-12-03 20:27:06,334 [main] INFO logger_file - User should be logged into account
+2022-12-03 20:27:10,489 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 20:27:14,609 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 20:28:17,748 [main] INFO logger_file - React App is equal to React App
+2022-12-03 20:28:18,022 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 20:28:18,396 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 20:28:22,613 [main] INFO logger_file - user clicked on login button
+2022-12-03 20:28:22,614 [main] INFO logger_file - User should be logged into account
+2022-12-03 20:28:26,780 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 20:28:30,897 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-03 20:29:41,762 [main] INFO logger_file - React App is equal to React App
+2022-12-03 20:29:41,988 [main] INFO logger_file - user clicked on Sign In option
+2022-12-03 20:29:42,302 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-03 20:29:46,395 [main] INFO logger_file - user clicked on login button
+2022-12-03 20:29:46,396 [main] INFO logger_file - User should be logged into account
+2022-12-03 20:29:50,535 [main] INFO logger_file - User Should be on Accout page
+2022-12-03 20:29:54,654 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-05 21:47:50,299 [main] INFO logger_file - React App is equal to React App
+2022-12-05 21:47:50,556 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 21:47:50,874 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 21:47:54,970 [main] INFO logger_file - user clicked on login button
+2022-12-05 21:47:54,971 [main] INFO logger_file - User should be logged into account
+2022-12-05 21:47:59,122 [main] INFO logger_file - User Should be on Accout page
+2022-12-05 21:48:03,211 [main] INFO logger_file - 5445is selected
+2022-12-05 21:48:03,288 [main] INFO logger_file - user clicked on Edit Option
+2022-12-05 21:48:15,785 [main] INFO logger_file - user entered required card information
+2022-12-05 21:48:15,856 [main] INFO logger_file - user clicked on Update your card button
+2022-12-05 21:56:26,022 [main] INFO logger_file - React App is equal to React App
+2022-12-05 21:56:26,187 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 21:56:26,824 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 21:56:30,913 [main] INFO logger_file - user clicked on login button
+2022-12-05 21:56:30,914 [main] INFO logger_file - User should be logged into account
+2022-12-05 21:56:35,054 [main] INFO logger_file - User Should be on Accout page
+2022-12-05 21:56:39,154 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-05 22:07:27,465 [main] INFO logger_file - React App is equal to React App
+2022-12-05 22:07:27,617 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 22:07:28,330 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 22:07:32,414 [main] INFO logger_file - user clicked on login button
+2022-12-05 22:07:32,415 [main] INFO logger_file - User should be logged into account
+2022-12-05 22:07:36,555 [main] INFO logger_file - User Should be on Accout page
+2022-12-05 22:07:40,679 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-05 22:11:25,526 [main] INFO logger_file - React App is equal to React App
+2022-12-05 22:11:25,748 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 22:11:26,048 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 22:11:30,131 [main] INFO logger_file - user clicked on login button
+2022-12-05 22:11:30,133 [main] INFO logger_file - User should be logged into account
+2022-12-05 22:11:34,271 [main] INFO logger_file - User Should be on Accout page
+2022-12-05 22:11:38,382 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-05 22:11:39,782 [main] INFO logger_file - User should see all the information they fill out
+2022-12-05 22:11:39,923 [main] INFO logger_file - user should add the address
+2022-12-05 22:34:21,742 [main] INFO logger_file - React App is equal to React App
+2022-12-05 22:34:21,986 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 22:34:22,446 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 22:34:26,530 [main] INFO logger_file - user clicked on login button
+2022-12-05 22:34:26,532 [main] INFO logger_file - User should be logged into account
+2022-12-05 22:34:30,707 [main] INFO logger_file - User Should be on Accout page
+2022-12-05 22:34:34,821 [main] INFO logger_file - User should see the form to fill out the information
+2022-12-05 22:34:36,574 [main] INFO logger_file - User should see all the information they fill out
+2022-12-05 22:34:36,689 [main] INFO logger_file - user should add the address
+2022-12-05 22:44:37,397 [main] INFO logger_file - React App is equal to React App
+2022-12-05 22:44:37,615 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 22:44:38,001 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 22:44:42,093 [main] INFO logger_file - user clicked on login button
+2022-12-05 22:44:42,094 [main] INFO logger_file - User should be logged into account
+2022-12-05 22:44:46,250 [main] INFO logger_file - User Should be on Accout page
+2022-12-05 22:56:13,802 [main] INFO logger_file - React App is equal to React App
+2022-12-05 22:56:14,084 [main] INFO logger_file - user clicked on Sign In option
+2022-12-05 22:56:15,068 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-05 22:56:19,160 [main] INFO logger_file - user clicked on login button
+2022-12-05 22:56:19,161 [main] INFO logger_file - User should be logged into account
+2022-12-05 22:56:23,321 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 14:39:17,338 [main] INFO logger_file - React App is equal to React App
+2022-12-06 14:39:17,530 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 14:39:17,879 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 14:39:21,974 [main] INFO logger_file - user clicked on login button
+2022-12-06 14:39:21,974 [main] INFO logger_file - User should be logged into account
+2022-12-06 21:11:12,848 [main] INFO logger_file - React App is equal to React App
+2022-12-06 21:11:13,098 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 21:11:13,783 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 21:11:17,881 [main] INFO logger_file - user clicked on login button
+2022-12-06 21:11:17,881 [main] INFO logger_file - User should be logged into account
+2022-12-06 21:11:22,024 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 22:57:26,692 [main] INFO logger_file - React App is equal to React App
+2022-12-06 22:57:26,929 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 22:57:27,315 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 22:57:31,414 [main] INFO logger_file - user clicked on login button
+2022-12-06 22:57:31,415 [main] INFO logger_file - User should be logged into account
+2022-12-06 22:57:35,578 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 22:57:39,661 [main] INFO logger_file - User should able to click on card
+2022-12-06 22:57:39,767 [main] INFO logger_file - User should be able to clik on remove button
+2022-12-06 22:57:43,769 [main] INFO logger_file - User's card should remove from account page
+2022-12-06 23:03:18,315 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:03:18,626 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:03:18,953 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:03:23,041 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:03:23,043 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:06:26,479 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:06:26,725 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:06:27,096 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:06:31,182 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:06:31,183 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:06:35,320 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 23:33:41,275 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:33:41,627 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:33:41,973 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:33:46,057 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:33:46,060 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:33:50,199 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 23:37:33,064 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:37:33,336 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:37:33,702 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:37:37,791 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:37:37,792 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:37:41,931 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 23:43:15,307 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:43:15,525 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:43:15,861 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:43:19,954 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:43:19,956 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:43:24,091 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 23:44:50,803 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:44:51,098 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:44:51,401 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:44:55,486 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:44:55,487 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:44:59,644 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 23:46:35,095 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:46:35,324 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:46:35,704 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:46:39,790 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:46:39,791 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:46:43,939 [main] INFO logger_file - User Should be on Accout page
+2022-12-06 23:59:49,696 [main] INFO logger_file - React App is equal to React App
+2022-12-06 23:59:49,946 [main] INFO logger_file - user clicked on Sign In option
+2022-12-06 23:59:50,273 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-06 23:59:54,363 [main] INFO logger_file - user clicked on login button
+2022-12-06 23:59:54,364 [main] INFO logger_file - User should be logged into account
+2022-12-06 23:59:58,545 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:02:33,524 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:02:33,815 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:02:34,171 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:02:38,262 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:02:38,263 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:02:42,401 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:04:20,719 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:04:20,948 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:04:21,256 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:04:25,343 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:04:25,345 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:04:29,483 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:06:57,550 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:06:57,819 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:06:58,100 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:07:02,182 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:07:02,183 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:07:06,325 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:08:37,844 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:08:38,100 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:08:38,539 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:08:42,644 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:08:42,645 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:09:31,739 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:09:31,970 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:09:32,307 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:09:36,379 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:09:36,380 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:11:00,797 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:11:00,971 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:11:01,262 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:11:05,354 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:11:05,356 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:11:09,503 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:12:20,698 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:12:20,914 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:12:21,265 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:12:25,347 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:12:25,347 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:12:29,482 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:19:28,897 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:19:29,103 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:19:29,411 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:19:33,537 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:19:33,541 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:19:37,670 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:26:19,704 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:26:19,969 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:26:20,256 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:26:24,342 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:26:24,344 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:26:28,513 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:26:32,604 [main] INFO logger_file - User should be able to click on remove button
+2022-12-07 00:26:32,606 [main] INFO logger_file - User address should be remove
+2022-12-07 00:28:01,497 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:28:01,787 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:28:02,161 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:28:06,242 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:28:06,244 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:28:10,384 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:28:14,472 [main] INFO logger_file - User should be able to click on remove button
+2022-12-07 00:28:14,474 [main] INFO logger_file - User address should be remove
+2022-12-07 00:30:03,408 [main] INFO logger_file - React App is equal to React App
+2022-12-07 00:30:03,671 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 00:30:03,985 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 00:30:08,069 [main] INFO logger_file - user clicked on login button
+2022-12-07 00:30:08,070 [main] INFO logger_file - User should be logged into account
+2022-12-07 00:30:12,221 [main] INFO logger_file - User Should be on Accout page
+2022-12-07 00:30:16,321 [main] INFO logger_file - User should be able to click on remove button
+2022-12-07 00:30:16,324 [main] INFO logger_file - User address should be remove
+2022-12-07 00:47:44,769 [main] INFO logger_file - React App is equal to React App
+2022-12-07 01:11:44,250 [main] INFO logger_file - React App is equal to React App
+2022-12-07 01:11:48,670 [main] INFO logger_file - user click on all section
+2022-12-07 01:11:48,805 [main] INFO logger_file - user should see all the element
+2022-12-07 11:43:33,409 [main] INFO logger_file - React App is equal to React App
+2022-12-07 11:43:37,642 [main] INFO logger_file - user click on all section
+2022-12-07 13:26:13,620 [main] INFO logger_file - React App is equal to React App
+2022-12-07 13:26:17,872 [main] INFO logger_file - user click on all section
+2022-12-07 13:26:21,430 [main] INFO logger_file - React App is equal to React App
+2022-12-07 13:26:25,613 [main] INFO logger_file - user click on all section
+2022-12-07 13:26:29,046 [main] INFO logger_file - React App is equal to React App
+2022-12-07 13:26:33,180 [main] INFO logger_file - user click on all section
+2022-12-07 13:26:36,564 [main] INFO logger_file - React App is equal to React App
+2022-12-07 13:26:40,690 [main] INFO logger_file - user click on all section
+2022-12-07 13:26:44,474 [main] INFO logger_file - React App is equal to React App
+2022-12-07 13:26:48,594 [main] INFO logger_file - user click on all section
+2022-12-07 14:43:12,377 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:43:12,402 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:43:12,634 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 14:43:13,072 [main] INFO logger_file - user entered email EmailValue and password PasswordValue
+2022-12-07 14:44:57,332 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:44:57,346 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:44:57,548 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 14:44:57,895 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 14:45:02,013 [main] INFO logger_file - user clicked on login button
+2022-12-07 14:45:02,380 [main] INFO logger_file - user logged in into account
+2022-12-07 14:55:42,870 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:55:42,881 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:55:43,048 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 14:55:43,371 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 14:55:47,470 [main] INFO logger_file - user clicked on login button
+2022-12-07 14:55:47,843 [main] INFO logger_file - user logged in into account
+2022-12-07 14:55:51,925 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 14:55:52,043 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 14:55:52,126 [main] INFO logger_file - user clicked on search button
+2022-12-07 14:58:50,876 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:58:50,886 [main] INFO logger_file - React App is equal to React App
+2022-12-07 14:58:51,162 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 14:58:51,492 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 14:58:55,578 [main] INFO logger_file - user clicked on login button
+2022-12-07 14:58:55,940 [main] INFO logger_file - user logged in into account
+2022-12-07 14:59:00,019 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 14:59:00,160 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 14:59:00,259 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:01:23,367 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:01:23,381 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:01:23,552 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:01:23,848 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:01:27,942 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:01:28,488 [main] INFO logger_file - user logged in into account
+2022-12-07 15:01:32,576 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:01:32,717 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:01:32,840 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:01:32,931 [main] INFO logger_file - User should click on the item
+2022-12-07 15:03:34,514 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:03:34,566 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:03:34,761 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:03:35,136 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:03:39,244 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:03:39,607 [main] INFO logger_file - user logged in into account
+2022-12-07 15:03:43,698 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:03:47,815 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:03:47,966 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:03:48,082 [main] INFO logger_file - User should click on the item
+2022-12-07 15:05:42,304 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:05:42,317 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:05:42,537 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:05:42,889 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:05:46,990 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:05:47,373 [main] INFO logger_file - user logged in into account
+2022-12-07 15:05:51,460 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:05:51,610 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:05:51,707 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:05:51,789 [main] INFO logger_file - User should click on the item
+2022-12-07 15:08:22,666 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:08:22,680 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:08:22,900 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:08:23,218 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:08:27,305 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:09:08,272 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:09:08,283 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:09:08,508 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:09:08,808 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:09:12,916 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:09:13,279 [main] INFO logger_file - user logged in into account
+2022-12-07 15:17:15,303 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:17:15,314 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:17:15,556 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:17:15,860 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:17:19,999 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:17:20,377 [main] INFO logger_file - user logged in into account
+2022-12-07 15:21:58,858 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:21:58,875 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:21:59,231 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:21:59,680 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:22:03,763 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:22:04,336 [main] INFO logger_file - user logged in into account
+2022-12-07 15:29:40,330 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:29:40,343 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:29:40,662 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:29:41,049 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:29:45,153 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:29:45,540 [main] INFO logger_file - user logged in into account
+2022-12-07 15:30:57,414 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:30:57,429 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:30:57,708 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:30:58,481 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:31:02,588 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:31:03,011 [main] INFO logger_file - user logged in into account
+2022-12-07 15:31:07,131 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:31:07,226 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:31:07,327 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:35:31,099 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:35:31,118 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:35:31,413 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:35:31,716 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:35:35,801 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:35:36,183 [main] INFO logger_file - user logged in into account
+2022-12-07 15:35:40,284 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:35:40,371 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:35:40,460 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:37:05,671 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:37:05,683 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:37:05,863 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:37:06,259 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:37:10,340 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:37:10,739 [main] INFO logger_file - user logged in into account
+2022-12-07 15:37:14,834 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:37:18,905 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:37:19,057 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:38:32,915 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:38:32,931 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:38:33,150 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:38:33,508 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:38:37,597 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:38:37,959 [main] INFO logger_file - user logged in into account
+2022-12-07 15:38:42,049 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:38:46,229 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:41:39,600 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:41:39,610 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:41:39,776 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:41:40,101 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:41:44,183 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:41:44,563 [main] INFO logger_file - user logged in into account
+2022-12-07 15:41:48,632 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:41:52,741 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:41:52,849 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:41:53,134 [main] INFO logger_file - User should click on the item
+2022-12-07 15:44:40,164 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:44:40,176 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:44:40,395 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:44:40,690 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:44:44,777 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:44:45,129 [main] INFO logger_file - user logged in into account
+2022-12-07 15:44:49,217 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:44:53,342 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:44:53,451 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:44:53,708 [main] INFO logger_file - User should click on the item
+2022-12-07 15:46:48,489 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:46:48,498 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:46:48,686 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:46:48,974 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:46:53,058 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:46:53,468 [main] INFO logger_file - user logged in into account
+2022-12-07 15:46:57,546 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:47:01,662 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:47:01,745 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:47:02,001 [main] INFO logger_file - User should click on the item
+2022-12-07 15:47:59,382 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:47:59,438 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:47:59,629 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:47:59,939 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:48:04,029 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:48:04,390 [main] INFO logger_file - user logged in into account
+2022-12-07 15:48:08,464 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:48:12,587 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:48:12,711 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:48:13,016 [main] INFO logger_file - User should click on the item
+2022-12-07 15:48:17,112 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 15:48:21,183 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 15:49:31,431 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:49:31,445 [main] INFO logger_file - React App is equal to React App
+2022-12-07 15:49:31,710 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 15:49:32,126 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 15:49:36,240 [main] INFO logger_file - user clicked on login button
+2022-12-07 15:49:36,611 [main] INFO logger_file - user logged in into account
+2022-12-07 15:49:40,692 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 15:49:44,827 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 15:49:44,929 [main] INFO logger_file - user clicked on search button
+2022-12-07 15:49:45,228 [main] INFO logger_file - User should click on the item
+2022-12-07 15:49:49,331 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 15:49:53,408 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 15:49:57,438 [main] INFO logger_file - User should it added
+2022-12-07 20:36:08,644 [main] INFO logger_file - React App is equal to React App
+2022-12-07 20:36:08,654 [main] INFO logger_file - React App is equal to React App
+2022-12-07 20:36:08,826 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 20:36:09,100 [main] INFO logger_file - user entered email EmailValue and password PasswordValue
+2022-12-07 20:36:50,294 [main] INFO logger_file - React App is equal to React App
+2022-12-07 20:36:50,304 [main] INFO logger_file - React App is equal to React App
+2022-12-07 20:36:50,520 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 20:36:50,779 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 20:36:54,904 [main] INFO logger_file - user clicked on login button
+2022-12-07 20:36:55,334 [main] INFO logger_file - user logged in into account
+2022-12-07 20:41:18,818 [main] INFO logger_file - React App is equal to React App
+2022-12-07 20:41:18,829 [main] INFO logger_file - React App is equal to React App
+2022-12-07 20:41:18,979 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 20:41:19,238 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 20:41:23,324 [main] INFO logger_file - user clicked on login button
+2022-12-07 20:41:23,709 [main] INFO logger_file - user logged in into account
+2022-12-07 23:04:07,415 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:04:07,426 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:04:07,576 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:04:07,926 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:04:12,019 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:04:12,456 [main] INFO logger_file - user logged in into account
+2022-12-07 23:04:16,541 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:04:20,655 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:04:20,726 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:04:21,353 [main] INFO logger_file - User should click on the item
+2022-12-07 23:04:25,452 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:04:29,526 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:04:33,558 [main] INFO logger_file - User should it added
+2022-12-07 23:04:37,676 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:04:37,811 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:18:24,353 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:18:24,365 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:18:24,583 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:18:24,903 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:18:28,993 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:18:29,352 [main] INFO logger_file - user logged in into account
+2022-12-07 23:18:33,432 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:18:37,558 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:18:37,679 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:18:37,979 [main] INFO logger_file - User should click on the item
+2022-12-07 23:18:42,062 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:18:46,146 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:18:50,172 [main] INFO logger_file - User should it added
+2022-12-07 23:18:54,300 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:18:54,542 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:18:54,756 [main] INFO logger_file - User should be able to click on add a new address button
+2022-12-07 23:25:15,837 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:25:15,849 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:25:15,992 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:25:16,340 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:25:20,451 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:25:20,844 [main] INFO logger_file - user logged in into account
+2022-12-07 23:25:24,931 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:25:29,071 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:25:29,179 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:25:29,598 [main] INFO logger_file - User should click on the item
+2022-12-07 23:25:33,723 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:25:37,824 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:25:41,852 [main] INFO logger_file - User should it added
+2022-12-07 23:25:46,006 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:25:50,151 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:25:54,288 [main] INFO logger_file - User should be able to click on add a new address button
+2022-12-07 23:25:59,996 [main] INFO logger_file - User should see all the information they fill out
+2022-12-07 23:28:39,764 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:28:39,777 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:28:39,993 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:28:40,398 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:28:44,502 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:28:44,878 [main] INFO logger_file - user logged in into account
+2022-12-07 23:28:48,954 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:28:53,080 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:28:53,188 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:28:53,512 [main] INFO logger_file - User should click on the item
+2022-12-07 23:28:57,604 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:29:01,671 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:29:05,698 [main] INFO logger_file - User should it added
+2022-12-07 23:29:09,854 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:29:13,994 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:29:18,141 [main] INFO logger_file - User should be able to click on add a new address button
+2022-12-07 23:29:23,921 [main] INFO logger_file - User should see all the information they fill out
+2022-12-07 23:29:24,084 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:29:28,179 [main] INFO logger_file - User should be able to click on Add Your payment Buttn
+2022-12-07 23:29:32,693 [main] INFO logger_file - User should be able to change password
+2022-12-07 23:29:36,842 [main] INFO logger_file - User should be able see the submitbtn
+2022-12-07 23:29:40,927 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:38:22,224 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:38:22,238 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:38:22,507 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:38:22,890 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:38:26,994 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:38:27,378 [main] INFO logger_file - user logged in into account
+2022-12-07 23:38:31,482 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:38:35,606 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:38:35,712 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:38:36,081 [main] INFO logger_file - User should click on the item
+2022-12-07 23:38:40,172 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:38:44,249 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:38:48,272 [main] INFO logger_file - User should it added
+2022-12-07 23:38:52,432 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:38:56,578 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:39:00,716 [main] INFO logger_file - User should be able to click on add a new address button
+2022-12-07 23:39:06,438 [main] INFO logger_file - User should see all the information they fill out
+2022-12-07 23:39:06,583 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:39:10,677 [main] INFO logger_file - User should be able to click on Add Your payment Buttn
+2022-12-07 23:39:15,186 [main] INFO logger_file - User should be able to change password
+2022-12-07 23:39:19,292 [main] INFO logger_file - User should be able see the submitbtn
+2022-12-07 23:43:41,312 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:43:41,326 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:43:41,571 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:43:41,876 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:43:45,982 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:43:46,390 [main] INFO logger_file - user logged in into account
+2022-12-07 23:43:50,463 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:43:54,653 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:43:54,788 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:43:55,158 [main] INFO logger_file - User should click on the item
+2022-12-07 23:43:59,257 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:44:03,334 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:44:07,369 [main] INFO logger_file - User should it added
+2022-12-07 23:44:11,591 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:44:15,743 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:44:19,887 [main] INFO logger_file - User should be able to click on add a new address button
+2022-12-07 23:44:25,559 [main] INFO logger_file - User should see all the information they fill out
+2022-12-07 23:44:25,698 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:44:29,813 [main] INFO logger_file - User should be able to click on Add Your payment Buttn
+2022-12-07 23:44:34,490 [main] INFO logger_file - User should be able to change password
+2022-12-07 23:44:38,585 [main] INFO logger_file - User should be able see the submitbtn
+2022-12-07 23:44:42,668 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:50:01,123 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:50:01,135 [main] INFO logger_file - React App is equal to React App
+2022-12-07 23:50:01,374 [main] INFO logger_file - user clicked on Sign In option
+2022-12-07 23:50:01,696 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-07 23:50:05,799 [main] INFO logger_file - user clicked on login button
+2022-12-07 23:50:06,215 [main] INFO logger_file - user logged in into account
+2022-12-07 23:50:10,301 [main] INFO logger_file - Smart Home was selected from the drop down
+2022-12-07 23:50:14,492 [main] INFO logger_file - user entered kasa outdoor smart plug
+2022-12-07 23:50:14,653 [main] INFO logger_file - user clicked on search button
+2022-12-07 23:50:15,062 [main] INFO logger_file - User should click on the item
+2022-12-07 23:50:19,165 [main] INFO logger_file - User should change quintidy to two
+2022-12-07 23:50:23,242 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-07 23:50:27,267 [main] INFO logger_file - User should it added
+2022-12-07 23:50:31,421 [main] INFO logger_file - User should be able to click on cart option
+2022-12-07 23:50:35,567 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-07 23:50:39,720 [main] INFO logger_file - User should be able to click on add a new address button
+2022-12-07 23:50:45,479 [main] INFO logger_file - User should see all the information they fill out
+2022-12-07 23:50:45,655 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:50:49,746 [main] INFO logger_file - User should be able to click on Add Your payment Buttn
+2022-12-07 23:50:54,367 [main] INFO logger_file - User should be able to change password
+2022-12-07 23:50:58,475 [main] INFO logger_file - User should be able see the submitbtn
+2022-12-07 23:51:02,565 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-07 23:51:06,588 [main] INFO logger_file - Order Placed Successfully Message is displayed
+2022-12-08 00:04:39,723 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:04:39,746 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:04:39,958 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 00:04:40,308 [main] INFO logger_file - user entered email EmailValue and password PasswordValue
+2022-12-08 00:06:16,591 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:06:16,605 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:06:16,916 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 00:06:17,423 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 00:06:21,541 [main] INFO logger_file - user clicked on login button
+2022-12-08 00:06:21,940 [main] INFO logger_file - user logged in into account
+2022-12-08 00:06:26,019 [main] INFO logger_file - Electronics was selected from the drop down
+2022-12-08 00:06:30,191 [main] INFO logger_file - user entered Apex Legends 
+2022-12-08 00:07:22,144 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:07:22,153 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:07:22,418 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 00:07:22,795 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 00:07:26,905 [main] INFO logger_file - user clicked on login button
+2022-12-08 00:07:27,276 [main] INFO logger_file - user logged in into account
+2022-12-08 00:07:31,367 [main] INFO logger_file - Electronics was selected from the drop down
+2022-12-08 00:07:35,469 [main] INFO logger_file - user entered Apex Legends 
+2022-12-08 00:07:35,591 [main] INFO logger_file - user clicked on search button
+2022-12-08 00:07:35,924 [main] INFO logger_file - User should click on the item
+2022-12-08 00:58:34,761 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:58:34,774 [main] INFO logger_file - React App is equal to React App
+2022-12-08 00:58:35,022 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 00:58:35,382 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 00:58:39,484 [main] INFO logger_file - user clicked on login button
+2022-12-08 00:58:39,859 [main] INFO logger_file - user logged in into account
+2022-12-08 00:58:43,949 [main] INFO logger_file - Electronics was selected from the drop down
+2022-12-08 00:58:48,072 [main] INFO logger_file - user entered Apex Legends 
+2022-12-08 00:58:48,219 [main] INFO logger_file - user clicked on search button
+2022-12-08 00:58:48,520 [main] INFO logger_file - User should click on the item
+2022-12-08 00:58:52,618 [main] INFO logger_file - User should change quintidy to five
+2022-12-08 00:58:56,706 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-08 00:59:00,735 [main] INFO logger_file - Quantity should change to five
+2022-12-08 00:59:00,890 [main] INFO logger_file - User should be able to click on cart option
+2022-12-08 00:59:05,054 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-08 00:59:09,140 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-08 01:02:41,146 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:02:41,156 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:02:41,489 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 01:02:41,797 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 01:02:45,886 [main] INFO logger_file - user clicked on login button
+2022-12-08 01:02:46,261 [main] INFO logger_file - user logged in into account
+2022-12-08 01:02:50,336 [main] INFO logger_file - Electronics was selected from the drop down
+2022-12-08 01:02:54,431 [main] INFO logger_file - user entered Apex Legends 
+2022-12-08 01:02:54,523 [main] INFO logger_file - user clicked on search button
+2022-12-08 01:02:54,835 [main] INFO logger_file - User should click on the item
+2022-12-08 01:02:58,923 [main] INFO logger_file - User should change quintidy to five
+2022-12-08 01:03:02,998 [main] INFO logger_file - user Should see that the it add to the card
+2022-12-08 01:03:07,025 [main] INFO logger_file - Quantity should change to five
+2022-12-08 01:03:07,206 [main] INFO logger_file - User should be able to click on cart option
+2022-12-08 01:03:11,353 [main] INFO logger_file - User click on Proceed to Checkout button
+2022-12-08 01:03:15,421 [main] INFO logger_file - User click on Add Your Address Buttn
+2022-12-08 01:03:19,449 [main] INFO logger_file - Order Placed Successfully Message is displayed
+2022-12-08 01:06:32,474 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:06:32,486 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:06:32,735 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 01:06:33,021 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 01:06:37,107 [main] INFO logger_file - user clicked on login button
+2022-12-08 01:06:37,542 [main] INFO logger_file - user logged in into account
+2022-12-08 01:29:44,911 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:29:44,924 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:29:45,151 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 01:29:45,489 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 01:29:49,586 [main] INFO logger_file - user clicked on login button
+2022-12-08 01:29:49,954 [main] INFO logger_file - user logged in into account
+2022-12-08 01:29:54,119 [main] INFO logger_file - User clicked on Order section
+2022-12-08 01:29:54,120 [main] INFO logger_file - User should see the first order
+2022-12-08 01:34:34,802 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:34:34,816 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:34:35,034 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 01:34:35,356 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 01:34:39,460 [main] INFO logger_file - user clicked on login button
+2022-12-08 01:34:39,824 [main] INFO logger_file - user logged in into account
+2022-12-08 01:34:43,984 [main] INFO logger_file - User clicked on Order section
+2022-12-08 01:34:43,986 [main] INFO logger_file - User should see the first order
+2022-12-08 01:34:44,166 [main] INFO logger_file - User clicked on cancel button
+2022-12-08 01:45:26,861 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:45:26,871 [main] INFO logger_file - React App is equal to React App
+2022-12-08 01:45:27,066 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 01:45:27,365 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 01:45:31,563 [main] INFO logger_file - user clicked on login button
+2022-12-08 01:45:31,931 [main] INFO logger_file - user logged in into account
+2022-12-08 01:45:36,072 [main] INFO logger_file - User clicked on Order section
+2022-12-08 01:45:36,077 [main] INFO logger_file - User should see the first order
+2022-12-08 01:45:36,280 [main] INFO logger_file - User clicked on cancel button
+2022-12-08 01:45:36,416 [main] INFO logger_file - user should see the option for return
+2022-12-08 01:45:40,492 [main] INFO logger_file - User clicked on cancel button
+2022-12-08 01:45:40,786 [main] INFO logger_file - Your Order Cancelled Successfully Message is displayed
+2022-12-08 11:22:17,108 [main] INFO logger_file - React App is equal to React App
+2022-12-08 11:22:17,117 [main] INFO logger_file - React App is equal to React App
+2022-12-08 11:22:17,290 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 11:22:17,669 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 11:22:21,754 [main] INFO logger_file - user clicked on login button
+2022-12-08 11:22:22,125 [main] INFO logger_file - user logged in into account
+2022-12-08 11:22:26,267 [main] INFO logger_file - User clicked on Order section
+2022-12-08 11:22:26,268 [main] INFO logger_file - User should see the first order
+2022-12-08 21:47:39,250 [main] INFO logger_file - React App is equal to React App
+2022-12-08 21:47:39,262 [main] INFO logger_file - React App is equal to React App
+2022-12-08 21:47:39,522 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 21:47:39,836 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 21:47:43,923 [main] INFO logger_file - user clicked on login button
+2022-12-08 21:47:44,299 [main] INFO logger_file - user logged in into account
+2022-12-08 21:47:48,459 [main] INFO logger_file - User clicked on Order section
+2022-12-08 21:47:48,460 [main] INFO logger_file - User should see the first order
+2022-12-08 21:51:06,488 [main] INFO logger_file - React App is equal to React App
+2022-12-08 21:51:06,499 [main] INFO logger_file - React App is equal to React App
+2022-12-08 21:51:06,742 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 21:51:07,052 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 21:51:11,141 [main] INFO logger_file - user clicked on login button
+2022-12-08 21:51:11,546 [main] INFO logger_file - user logged in into account
+2022-12-08 21:51:15,684 [main] INFO logger_file - User clicked on Order section
+2022-12-08 21:51:15,686 [main] INFO logger_file - User should see the first order
+2022-12-08 21:51:15,814 [main] INFO logger_file - User click on Return button item
+2022-12-08 21:51:19,898 [main] INFO logger_file - User select the return reason
+2022-12-08 22:05:46,495 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:05:46,506 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:05:46,772 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:05:47,094 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:05:51,184 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:05:51,565 [main] INFO logger_file - user logged in into account
+2022-12-08 22:05:55,714 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:05:55,716 [main] INFO logger_file - User should see the first order
+2022-12-08 22:05:55,852 [main] INFO logger_file - User click on Return button item
+2022-12-08 22:05:59,950 [main] INFO logger_file - User select the return reason
+2022-12-08 22:06:00,094 [main] INFO logger_file - User select drop off service FedEx
+2022-12-08 22:06:00,181 [main] INFO logger_file - User click on retuen order button
+2022-12-08 22:07:08,266 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:07:08,274 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:07:08,456 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:07:08,723 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:07:12,804 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:07:13,174 [main] INFO logger_file - user logged in into account
+2022-12-08 22:07:17,297 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:07:17,299 [main] INFO logger_file - User should see the first order
+2022-12-08 22:07:17,437 [main] INFO logger_file - User click on Return button item
+2022-12-08 22:07:21,508 [main] INFO logger_file - User select the return reason
+2022-12-08 22:07:21,609 [main] INFO logger_file - User select drop off service FedEx
+2022-12-08 22:07:21,719 [main] INFO logger_file - User click on retuen order button
+2022-12-08 22:07:22,042 [main] INFO logger_file - Cancelation message should be displayed ‘Return was successful’
+2022-12-08 22:09:20,167 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:09:20,181 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:09:20,427 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:09:20,744 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:09:24,844 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:09:25,223 [main] INFO logger_file - user logged in into account
+2022-12-08 22:09:29,393 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:09:29,394 [main] INFO logger_file - User should see the first order
+2022-12-08 22:37:21,463 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:37:21,477 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:37:21,820 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:37:22,362 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:37:26,460 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:37:26,847 [main] INFO logger_file - user logged in into account
+2022-12-08 22:37:31,012 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:37:31,013 [main] INFO logger_file - User should see the first order
+2022-12-08 22:37:31,150 [main] INFO logger_file - User click on review button
+2022-12-08 22:37:53,127 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:37:53,137 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:37:53,453 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:37:53,821 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:37:57,921 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:37:58,443 [main] INFO logger_file - user logged in into account
+2022-12-08 22:38:02,609 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:38:02,610 [main] INFO logger_file - User should see the first order
+2022-12-08 22:38:02,762 [main] INFO logger_file - User click on review button
+2022-12-08 22:39:42,350 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:39:42,362 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:39:42,712 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:39:43,079 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:39:47,175 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:39:47,522 [main] INFO logger_file - user logged in into account
+2022-12-08 22:39:51,696 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:39:51,699 [main] INFO logger_file - User should see the first order
+2022-12-08 22:39:51,831 [main] INFO logger_file - User click on review button
+2022-12-08 22:39:52,068 [main] INFO logger_file - User submit a review message
+2022-12-08 22:39:52,164 [main] INFO logger_file - User click on Add your Review button
+2022-12-08 22:52:16,986 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:52:16,996 [main] INFO logger_file - React App is equal to React App
+2022-12-08 22:52:17,254 [main] INFO logger_file - user clicked on Sign In option
+2022-12-08 22:52:17,575 [main] INFO logger_file - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-08 22:52:21,664 [main] INFO logger_file - user clicked on login button
+2022-12-08 22:52:22,020 [main] INFO logger_file - user logged in into account
+2022-12-08 22:52:26,176 [main] INFO logger_file - User clicked on Order section
+2022-12-08 22:52:26,178 [main] INFO logger_file - User should see the first order
+2022-12-08 22:52:26,328 [main] INFO logger_file - User click on review button
+2022-12-08 22:52:26,577 [main] INFO logger_file - User submit a review message
+2022-12-08 22:52:30,665 [main] INFO logger_file - User click on Add your Review button
+2022-12-08 22:52:34,691 [main] INFO logger_file - Review message should be displayed ‘Return was successful’
+2022-12-08 23:38:51,035 [main] INFO logger_file - React App is equal to React App
+2022-12-08 23:38:55,317 [main] INFO logger_file - user click on all section
+2022-12-08 23:39:05,228 [main] INFO logger_file - React App is equal to React App
+2022-12-08 23:39:09,408 [main] INFO logger_file - user click on all section
+2022-12-08 23:39:18,067 [main] INFO logger_file - React App is equal to React App
+2022-12-08 23:39:22,356 [main] INFO logger_file - user click on all section
+2022-12-08 23:39:27,764 [main] INFO logger_file - React App is equal to React App
+2022-12-08 23:39:31,924 [main] INFO logger_file - user click on all section
+2022-12-08 23:39:37,368 [main] INFO logger_file - React App is equal to React App
+2022-12-08 23:39:41,800 [main] INFO logger_file - user click on all section
+2022-12-14 14:05:38,619 [main] INFO logger_file - React App is equal to React App
+2022-12-14 14:05:42,866 [main] INFO logger_file - user click on all section
+2022-12-14 14:05:50,143 [main] INFO logger_file - React App is equal to React App
+2022-12-14 14:05:54,352 [main] INFO logger_file - user click on all section
+2022-12-14 14:06:03,384 [main] INFO logger_file - React App is equal to React App
+2022-12-14 14:06:07,814 [main] INFO logger_file - user click on all section
+2022-12-14 14:06:12,382 [main] INFO logger_file - React App is equal to React App
+2022-12-14 14:06:16,527 [main] INFO logger_file - user click on all section
+2022-12-14 14:06:20,906 [main] INFO logger_file - React App is equal to React App
+2022-12-14 14:06:25,045 [main] INFO logger_file - user click on all section
+2022-12-20 12:51:32,442 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:51:36,772 [main] INFO logger_file - user click on all section
+2022-12-20 12:51:40,570 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:51:44,809 [main] INFO logger_file - user click on all section
+2022-12-20 12:51:48,109 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:51:52,380 [main] INFO logger_file - user click on all section
+2022-12-20 12:51:56,092 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:52:00,304 [main] INFO logger_file - user click on all section
+2022-12-20 12:52:05,490 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:52:09,662 [main] INFO logger_file - user click on all section
+2022-12-20 12:56:33,722 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:56:37,995 [main] INFO logger_file - user click on all section
+2022-12-20 12:56:41,441 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:56:45,709 [main] INFO logger_file - user click on all section
+2022-12-20 12:56:49,169 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:56:53,357 [main] INFO logger_file - user click on all section
+2022-12-20 12:56:56,647 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:57:01,088 [main] INFO logger_file - user click on all section
+2022-12-20 12:57:56,733 [main] INFO logger_file - React App is equal to React App
+2022-12-20 12:58:00,945 [main] INFO logger_file - user click on all section
+2022-12-20 13:00:37,447 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:00:41,711 [main] INFO logger_file - user click on all section
+2022-12-20 13:06:34,582 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:06:38,910 [main] INFO logger_file - user click on all section
+2022-12-20 13:08:19,079 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:08:23,358 [main] INFO logger_file - user click on all section
+2022-12-20 13:08:27,078 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:08:31,316 [main] INFO logger_file - user click on all section
+2022-12-20 13:12:46,886 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:12:51,168 [main] INFO logger_file - user click on all section
+2022-12-20 13:12:55,002 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:15:24,180 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:15:28,384 [main] INFO logger_file - user click on all section
+2022-12-20 13:15:34,488 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:15:38,658 [main] INFO logger_file - user click on all section
+2022-12-20 13:15:42,940 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:15:47,129 [main] INFO logger_file - user click on all section
+2022-12-20 13:15:51,573 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:15:55,764 [main] INFO logger_file - user click on all section
+2022-12-20 13:16:54,631 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:16:58,766 [main] INFO logger_file - user click on all section
+2022-12-20 13:17:04,410 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:17:08,524 [main] INFO logger_file - user click on all section
+2022-12-20 13:17:15,825 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:17:19,949 [main] INFO logger_file - user click on all section
+2022-12-20 13:17:27,749 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:17:31,878 [main] INFO logger_file - user click on all section
+2022-12-20 13:18:18,537 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:18:22,670 [main] INFO logger_file - user click on all section
+2022-12-20 13:20:11,420 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:20:15,618 [main] INFO logger_file - user click on all section
+2022-12-20 13:22:31,542 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:22:35,684 [main] INFO logger_file - user click on all section
+2022-12-20 13:24:09,984 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:24:14,137 [main] INFO logger_file - user click on all section
+2022-12-20 13:24:14,138 [main] INFO logger_file - user On Electronics
+2022-12-20 13:24:20,239 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:24:24,349 [main] INFO logger_file - user click on all section
+2022-12-20 13:25:34,720 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:25:38,884 [main] INFO logger_file - user click on all section
+2022-12-20 13:25:38,908 [main] INFO logger_file - user On Electronics
+2022-12-20 13:25:43,547 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:25:47,683 [main] INFO logger_file - user click on all section
+2022-12-20 13:25:47,685 [main] INFO logger_file - user On Computers
+2022-12-20 13:25:56,562 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:26:00,683 [main] INFO logger_file - user click on all section
+2022-12-20 13:26:05,137 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:26:09,267 [main] INFO logger_file - user click on all section
+2022-12-20 13:26:13,725 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:26:17,838 [main] INFO logger_file - user click on all section
+2022-12-20 13:30:40,287 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:30:44,470 [main] INFO logger_file - user click on all section
+2022-12-20 13:30:44,629 [main] INFO logger_file - user On Electronics
+2022-12-20 13:30:48,085 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:44:29,139 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:44:33,301 [main] INFO logger_file - user click on all section
+2022-12-20 13:44:33,490 [main] INFO logger_file - user On Electronics
+2022-12-20 13:44:37,940 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:44:42,060 [main] INFO logger_file - user click on all section
+2022-12-20 13:45:09,924 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:45:14,039 [main] INFO logger_file - user click on all section
+2022-12-20 13:48:04,701 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:48:08,847 [main] INFO logger_file - user click on all section
+2022-12-20 13:48:09,008 [main] INFO logger_file - user On Electronics
+2022-12-20 13:48:15,224 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:48:19,383 [main] INFO logger_file - user click on all section
+2022-12-20 13:48:23,521 [main] INFO logger_file - user On Computers
+2022-12-20 13:48:28,878 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:48:33,059 [main] INFO logger_file - user click on all section
+2022-12-20 13:49:06,408 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:49:10,527 [main] INFO logger_file - user click on all section
+2022-12-20 13:49:14,650 [main] INFO logger_file - user On Sports
+2022-12-20 13:49:21,037 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:49:25,174 [main] INFO logger_file - user click on all section
+2022-12-20 13:49:29,366 [main] INFO logger_file - user On Automotive
+2022-12-20 13:56:17,665 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:56:21,799 [main] INFO logger_file - user click on all section
+2022-12-20 13:56:21,990 [main] INFO logger_file - user On Electronics
+2022-12-20 13:56:28,464 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:56:32,577 [main] INFO logger_file - user click on all section
+2022-12-20 13:56:36,754 [main] INFO logger_file - user On Computers
+2022-12-20 13:56:41,304 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:56:45,426 [main] INFO logger_file - user click on all section
+2022-12-20 13:57:17,564 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:57:21,676 [main] INFO logger_file - user click on all section
+2022-12-20 13:57:25,836 [main] INFO logger_file - user On Sports
+2022-12-20 13:57:31,765 [main] INFO logger_file - React App is equal to React App
+2022-12-20 13:57:35,876 [main] INFO logger_file - user click on all section
+2022-12-20 13:57:40,004 [main] INFO logger_file - user On Automotive
+2022-12-20 14:01:28,316 [main] INFO logger_file - React App is equal to React App
+2022-12-20 14:01:32,518 [main] INFO logger_file - user click on all section
+2022-12-20 14:01:32,678 [main] INFO logger_file - user On Electronics
+2022-12-20 14:01:36,117 [main] INFO logger_file - React App is equal to React App
+2022-12-20 14:01:40,261 [main] INFO logger_file - user click on all section
+2022-12-20 14:01:44,417 [main] INFO logger_file - user On Computers
+2022-12-20 14:01:49,516 [main] INFO logger_file - React App is equal to React App
+2022-12-20 14:01:53,673 [main] INFO logger_file - user click on all section
+2022-12-20 14:01:57,806 [main] INFO logger_file - user On Smart Home
+2022-12-20 14:02:01,222 [main] INFO logger_file - React App is equal to React App
+2022-12-20 14:02:05,372 [main] INFO logger_file - user click on all section
+2022-12-20 14:02:09,501 [main] INFO logger_file - user On Sports
+2022-12-20 14:02:14,531 [main] INFO logger_file - React App is equal to React App
+2022-12-20 14:02:18,636 [main] INFO logger_file - user click on all section
+2022-12-20 14:02:22,763 [main] INFO logger_file - user On Automotive
