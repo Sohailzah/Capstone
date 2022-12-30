@@ -2,6 +2,10 @@ Feature: Reatil Home Page
 
   Background: 
     Given User is on retail website
+    When User click on Sign in option
+    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
+    And User click on login button
+    And User should be logged in into Account
 
   @sidebar
   Scenario: Verify Shop by Department sidebar
@@ -26,11 +30,6 @@ Feature: Reatil Home Page
 
   @addToTheCard
   Scenario: Verify User can add an item to cart
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
-    And User click on login button
-    And User should be logged in into Account
     And User change the Category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
     And User click on Search icon
@@ -41,11 +40,6 @@ Feature: Reatil Home Page
 
   @UserAddToTheCard
   Scenario: Verify User can place an order without Shipping address and payment Method on file
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
-    And User click on login button
-    And User should be logged in into Account
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
     And User click on Search icon
@@ -70,11 +64,6 @@ Feature: Reatil Home Page
 
   @UserAddToTheCardWith
   Scenario: Verify User can place an order with Shipping address and payment Method on file
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
-    And User click on login button
-    And User should be logged in into Account
     And User change the category to 'Electronics'
     And User search for an item 'Apex Legends '
     And User click on Search icon
@@ -89,11 +78,6 @@ Feature: Reatil Home Page
 
   @CancelOrderResoan
   Scenario: Verify User can cancel the order
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
-    And User click on login button
-    And User should be logged in into Account
     And User click on Orders section
     And User click on first order in list
     And User click on Cancel The Order button
@@ -103,11 +87,6 @@ Feature: Reatil Home Page
 
   @Return
   Scenario: Verify User can Return the order
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
-    And User click on login button
-    And User should be logged in into Account
     And User click on Orders section
     And User click on first order in list
     And User click on Return Items button
@@ -118,14 +97,9 @@ Feature: Reatil Home Page
 
   @UserWriteReview
   Scenario: Verify User can write a review on order placed
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'Sohial456@gmail.com' and password 'Asdf123456!'
-    And User click on login button
-    And User should be logged in into Account
     And User click on Orders section
     And User click on first order in list
     And User click on Review button
-    And User write Review headline ' Excellent' and 'Best Tv to Play FIFA23'
+    And User write Review headline 'Excellent' and 'Best Tv to Play FIFA23'
     And User click Add your Review button
     Then a review message should be displayed ‘Your review was added successfully’

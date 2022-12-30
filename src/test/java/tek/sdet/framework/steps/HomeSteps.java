@@ -391,5 +391,5 @@ public class HomeSteps extends CommonUtility {
 	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
 		Assert.assertTrue(isElementDisplayed(factory.homePAge().yourReviewMesg));
 		logger.info("Review message should be displayed ‘Return was successful’");
-	}
+	} 
 }

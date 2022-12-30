@@ -1644,3 +1644,65 @@
 2022-12-20 14:02:14,531 - logger_file -INFO - React App is equal to React App
 2022-12-20 14:02:18,636 - logger_file -INFO - user click on all section
 2022-12-20 14:02:22,763 - logger_file -INFO - user On Automotive
+2022-12-22 10:43:40,657 - logger_file -INFO - React App is equal to React App
+2022-12-22 10:43:40,870 - logger_file -INFO - user clicked on Sign In option
+2022-12-22 10:43:41,168 - logger_file -INFO - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-22 10:43:45,266 - logger_file -INFO - user clicked on login button
+2022-12-22 10:43:45,266 - logger_file -INFO - User should be logged into account
+2022-12-22 10:46:53,966 - logger_file -INFO - React App is equal to React App
+2022-12-22 10:46:54,188 - logger_file -INFO - user clicked on Sign In option
+2022-12-22 10:46:54,503 - logger_file -INFO - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-22 10:46:58,594 - logger_file -INFO - user clicked on login button
+2022-12-22 10:46:58,965 - logger_file -INFO - user logged in into account
+2022-12-22 10:47:03,043 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-22 10:47:07,166 - logger_file -INFO - user entered kasa outdoor smart plug
+2022-12-22 10:47:07,286 - logger_file -INFO - user clicked on search button
+2022-12-22 10:47:07,574 - logger_file -INFO - User should click on the item
+2022-12-22 10:47:11,667 - logger_file -INFO - User should change quintidy to two
+2022-12-22 10:47:15,759 - logger_file -INFO - user Should see that the it add to the card
+2022-12-22 10:47:19,791 - logger_file -INFO - User should it added
+2022-12-22 10:53:05,010 - logger_file -INFO - React App is equal to React App
+2022-12-22 10:53:05,209 - logger_file -INFO - user clicked on Sign In option
+2022-12-22 10:53:05,484 - logger_file -INFO - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-22 10:53:09,573 - logger_file -INFO - user clicked on login button
+2022-12-22 10:53:09,940 - logger_file -INFO - user logged in into account
+2022-12-22 10:53:14,070 - logger_file -INFO - User clicked on Order section
+2022-12-22 10:53:14,074 - logger_file -INFO - User should see the first order
+2022-12-22 10:53:14,184 - logger_file -INFO - User click on review button
+2022-12-22 10:53:14,411 - logger_file -INFO - User submit a review message
+2022-12-22 10:53:18,514 - logger_file -INFO - User click on Add your Review button
+2022-12-22 10:53:22,558 - logger_file -INFO - Review message should be displayed ‘Return was successful’
+2022-12-27 22:19:19,113 - logger_file -INFO - React App is equal to React App
+2022-12-27 22:19:19,282 - logger_file -INFO - user clicked on Sign In option
+2022-12-27 22:19:19,611 - logger_file -INFO - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-27 22:19:23,721 - logger_file -INFO - user clicked on login button
+2022-12-27 22:19:24,159 - logger_file -INFO - user logged in into account
+2022-12-27 22:19:28,234 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-27 22:19:32,377 - logger_file -INFO - user entered kasa outdoor smart plug
+2022-12-27 22:19:32,458 - logger_file -INFO - user clicked on search button
+2022-12-27 22:19:33,370 - logger_file -INFO - User should click on the item
+2022-12-27 22:19:37,458 - logger_file -INFO - User should change quintidy to two
+2022-12-27 22:19:41,537 - logger_file -INFO - user Should see that the it add to the card
+2022-12-27 22:19:45,569 - logger_file -INFO - User should it added
+2022-12-27 22:19:49,694 - logger_file -INFO - User should be able to click on cart option
+2022-12-27 22:19:53,828 - logger_file -INFO - User click on Proceed to Checkout button
+2022-12-27 22:19:57,959 - logger_file -INFO - User should be able to click on add a new address button
+2022-12-27 22:20:03,520 - logger_file -INFO - User should see all the information they fill out
+2022-12-27 22:20:03,650 - logger_file -INFO - User click on Add Your Address Buttn
+2022-12-27 22:20:07,727 - logger_file -INFO - User should be able to click on Add Your payment Buttn
+2022-12-27 22:20:12,187 - logger_file -INFO - User should be able to change password
+2022-12-27 22:20:16,265 - logger_file -INFO - User should be able see the submitbtn
+2022-12-29 15:17:00,602 - logger_file -INFO - React App is equal to React App
+2022-12-29 15:17:01,039 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 15:17:01,523 - logger_file -INFO - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-29 15:17:05,636 - logger_file -INFO - user clicked on login button
+2022-12-29 15:17:05,637 - logger_file -INFO - User should be logged into account
+2022-12-29 15:17:09,824 - logger_file -INFO - User Should be on Accout page
+2022-12-29 15:17:13,953 - logger_file -INFO - User should be able to click on Add Pyment Method Link
+2022-12-29 15:52:42,761 - logger_file -INFO - React App is equal to React App
+2022-12-29 15:52:43,199 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 15:52:43,806 - logger_file -INFO - user entered email Sohial456@gmail.com and password Asdf123456!
+2022-12-29 15:52:47,926 - logger_file -INFO - user clicked on login button
+2022-12-29 15:52:47,928 - logger_file -INFO - User should be logged into account
+2022-12-29 15:52:52,098 - logger_file -INFO - User Should be on Accout page
+2022-12-29 15:52:56,188 - logger_file -INFO - User should be able to click on Add Pyment Method Link

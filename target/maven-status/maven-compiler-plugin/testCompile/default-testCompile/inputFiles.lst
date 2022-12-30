@@ -1,7 +1,7 @@
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/steps/SignInSteps.java
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/runner/TestRunner.java
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/base/BaseUITest.java
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/pages/POMFactory.java
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/steps/HomeSteps.java
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/pages/RetailSignInPage.java
-/Users/sohailzahid/eclipse-workspace/tek-capstone-panthers/src/test/java/tek/sdet/framework/pages/RetailHomePage.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/steps/SignInSteps.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/pages/RetailHomePage.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/pages/POMFactory.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/steps/HomeSteps.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/runner/TestRunner.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/pages/RetailSignInPage.java
+/Users/sohailzahid/git/CapstonProject/tek-capstone-panthers/src/test/java/tek/sdet/framework/base/BaseUITest.java

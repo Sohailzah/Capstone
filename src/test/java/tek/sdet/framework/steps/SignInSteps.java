@@ -40,7 +40,7 @@ public class SignInSteps extends CommonUtility {
 		logger.info("user entered email " + email + " and password " + password);
 		slowDown();
 	}
-
+ 
 	@And("User click on login button")
 	public void userClickOnLoginButton() {
 		click(factory.signInPage().loginButton);
@@ -73,7 +73,7 @@ public class SignInSteps extends CommonUtility {
 		System.out.println(signup.get(1).get(0) + " This value is from list +++++++++++++++");
 		slowDown();
 	}
-
+ 
 	@And("User click on SignUp button")
 	public void userClickOnSignUpButton() {
 		click(factory.signInPage().signUpButton);
